@@ -11,6 +11,6 @@ List of Packages
 
 System Services
 
-- [Mongo DB](./Services/1.Mongo.md)
-- [Redis Server](./Services/2.Redis.md)
-- [Docker](./Services/3.Docker.md)
+- [Mongo DB](./SystemServices/1.Mongo.md)
+- [Redis Server](./SystemServices/2.Redis.md)
+- [Docker](./SystemServices/3.Docker.md)
